@@ -5,7 +5,6 @@ In this project, we will build a model to classify messages that are sent during
 
 Finally, this project contains a web app where you can input a message and get classification results.
 
-
 ![Screenshot of Web App](WebApp.PNG)
 
 ## File Description
