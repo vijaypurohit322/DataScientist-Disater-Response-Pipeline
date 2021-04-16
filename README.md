@@ -59,7 +59,7 @@ Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK,
 3. Go to http://0.0.0.0:3001/
 
 ## Student Notes
-To  visit my GitHub repository click [here]("https://github.com/vijaypurohit322/DataScientist-Disater-Response-Pipeline/") .
+To  visit my GitHub repository click [here]("https://github.com/vijaypurohit322/DataScientist-Disater-Response-Pipeline/").
 --------
 
 ## Licensing, Authors, Acknowledgements
