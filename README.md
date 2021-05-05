@@ -37,7 +37,6 @@ Finally, this project contains a web app where you can input a message and get c
 ## Installation
 Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries.
 
-
 ## File Descriptions
 1. App folder including the templates folder and "run.py" for the web application
 2. Data folder containing "DisasterResponse.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering.
